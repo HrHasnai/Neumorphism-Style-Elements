@@ -8,4 +8,4 @@ and also Developer Student Clubs (DSC Lead) by Google Developer .
 
 Facebook:
 https://web.facebook.com/hrhasnai/
-Website: hasnainrasheed.com
+Website: https://hasnainrasheed.com
