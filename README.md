@@ -8,11 +8,11 @@ and also Developer Student Clubs (DSC Lead) by Google Developer .
 
 
 
-####Live Preview: https://hrhasnai.github.io/Neumorphism-Style-Elements/
+**Live Preview: https://hrhasnai.github.io/Neumorphism-Style-Elements/ **
 
 
 
-##Facebook:
+**Facebook:**
 https://web.facebook.com/hrhasnai/
-##Website: 
+**Website:** 
 https://hasnainrasheed.com
